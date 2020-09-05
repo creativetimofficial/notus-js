@@ -6,11 +6,7 @@ module.exports = {
     enabled: true,
     content: [
       "./**/*.html",
-      "./*.html",
-      "./**/*.js",
-      "./*.js",
-      "./**/*.vue",
-      "./*.vue",
+      "./*.html"
     ],
     options: {
       whitelist: [],
