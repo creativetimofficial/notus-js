@@ -798,7 +798,7 @@
               <div class="flex flex-wrap items-center md:justify-between justify-center">
                 <div class="w-full md:w-4/12 px-4">
                   <div class="text-sm text-gray-600 font-semibold py-1">
-                    Copyright © <span id="javascript-date"></span>
+                    Copyright © <span id="get-current-year"></span>
                     <a
                       href="https://www.creative-tim.com"
                       class="text-gray-600 hover:text-gray-800 text-sm font-semibold py-1"
@@ -855,6 +855,12 @@
     ></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js" charset="utf-8"></script>
     <script type="text/javascript">
+      /* Make dynamic date appear */
+      (function () {
+        if(document.getElementById("get-current-year")){
+          document.getElementById("get-current-year").innerHTML = new Date().getFullYear();
+        }
+      })();
       /* Sidebar - Side navigation menu on mobile/responsive mode */
       function toggleNavbar(collapseID) {
         document.getElementById(collapseID).classList.toggle("hidden");
@@ -878,8 +884,6 @@
 
 
       (function() {
-        /* Add current date to the footer */
-        document.getElementById("javascript-date").innerHTML = new Date().getFullYear();
         /* Chart initialisations */
         /* Line Chart */
         var config = {
