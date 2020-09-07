@@ -1669,10 +1669,6 @@ video {
   margin-top: 8rem;
 }
 
-.mt-40 {
-  margin-top: 10rem;
-}
-
 .mt-48 {
   margin-top: 12rem;
 }
@@ -1911,6 +1907,11 @@ video {
 .py-24 {
   padding-top: 6rem;
   padding-bottom: 6rem;
+}
+
+.py-40 {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .pt-0 {
@@ -2682,6 +2683,10 @@ video {
 
   .md\:shadow-none {
     box-shadow: none;
+  }
+
+  .md\:text-left {
+    text-align: left;
   }
 
   .md\:w-64 {
