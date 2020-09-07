@@ -194,7 +194,8 @@ select { /* 1 */
  */
 
 button,
-[type="button"] {
+[type="button"],
+[type="submit"] {
   -webkit-appearance: button;
 }
 
@@ -203,7 +204,8 @@ button,
  */
 
 button::-moz-focus-inner,
-[type="button"]::-moz-focus-inner {
+[type="button"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
   border-style: none;
   padding: 0;
 }
@@ -213,7 +215,8 @@ button::-moz-focus-inner,
  */
 
 button:-moz-focusring,
-[type="button"]:-moz-focusring {
+[type="button"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 
@@ -262,7 +265,8 @@ textarea {
  * 2. Remove the padding in IE 10.
  */
 
-[type="checkbox"] {
+[type="checkbox"],
+[type="radio"] {
   box-sizing: border-box; /* 1 */
   padding: 0; /* 2 */
 }
@@ -2339,6 +2343,10 @@ video {
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 .no-underline {
