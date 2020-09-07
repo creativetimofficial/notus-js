@@ -454,6 +454,7 @@
       </div>
     </footer>
   </body>
+  <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
   <script>
     /* Make dynamic date appear */
     (function () {
@@ -465,6 +466,18 @@
     function toggleNavbar(collapseID) {
       document.getElementById(collapseID).classList.toggle("hidden");
       document.getElementById(collapseID).classList.toggle("block");
+    }
+    /* Function for dropdowns */
+    function openDropdown(event, dropdownID) {
+      let element = event.target;
+      while (element.nodeName !== "A") {
+        element = element.parentNode;
+      }
+      Popper.createPopper(element, document.getElementById(dropdownID), {
+        placement: "bottom-end"
+      });
+      document.getElementById(dropdownID).classList.toggle("hidden");
+      document.getElementById(dropdownID).classList.toggle("block");
     }
   </script>
 </html>
