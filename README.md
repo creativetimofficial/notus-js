@@ -65,7 +65,7 @@ We use GitHub Issues as the official bug tracker for the HTML Dashboard Page. He
 
 
 
-- Licensed under <a href="https://github.com/creativetimofficial/tailwind-starter-kit/blob/master/LICENSE.md" target="_blank">MIT</a>
+- Licensed under <a href="https://github.com/creativetimofficial/tailwind-webapp/blob/master/LICENSE.md" target="_blank">MIT</a>
 
 ## Useful Links
 
