@@ -10,6 +10,8 @@ Start your development with a Free Tailwindcss Admin and Presentation Starter Ki
 
 Tailwind Webapp is Free and Open Source. It features multiple HTML elements and it comes with dynamic components for JavaScript (i.e. Vanilla JS).
 
+It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=tw-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
+
 Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
 If you like bright and fresh colors, you will love this Free Tailwindcss Template! It features a huge number of components that can help you create amazing websites.
 
@@ -103,6 +105,7 @@ We also feature the following 18 dynamic components:
 * [Versions](#versions)
 * [Documentation](#documentation)
 * [Quick Start](#quick-start)
+* [Files and folders](#files-and-folders)
 * [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
 * [Licensing](#licensing)
@@ -121,13 +124,47 @@ We also feature the following 18 dynamic components:
 ## Documentation
 The documentation for the Tailwind Webapp is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/overview/webapp?ref=tw-readme" target="_blank">website</a>.
 
-<a href="https://demos.creative-tim.com/tailwind-webapp/?ref=tw-readme" target="_blank">View More</a>
-
-
 ## Quick start
 
-- <a href="https://github.com/creativetimofficial/tailwind-webapp/archive/master.zip" target="_blank">Download from Github</a>.
+- <a href="https://www.creative-tim.com/product/tailwind-webapp?ref=tw-github-readme" target="_blank">Download from Creative Tim</a>.
 - <a href="https://github.com/creativetimofficial/tailwind-webapp" target="_blank">Check it on Github</a>.
+
+## Files and Folder
+
+This is the project structure that you will get upon the download:
+```
+tailwind-webapp
+.
+├── CHANGELOG.md
+├── ISSUE_TEMPLATE.md
+├── LICENSE.md
+├── README.md
+├── assets
+│   ├── img
+│   ├── styles
+│   │   ├── index.css
+│   │   └── tailwind.css
+│   └── vendor
+│       └── @fortawesome
+│           └── fontawesome-free
+│               ├── css
+│               │   └── all.min.css
+│               └── webfonts
+├── index.html
+├── package.json
+├── pages
+│   ├── admin
+│   │   ├── dashboard.html
+│   │   ├── maps.html
+│   │   ├── settings.html
+│   │   └── tables.html
+│   ├── auth
+│   │   ├── login.html
+│   │   └── register.html
+│   ├── landing.html
+│   └── profile.html
+└── tailwind.config.js
+```
 
 ## Browser Support
 
@@ -148,8 +185,6 @@ We use GitHub Issues as the official bug tracker for the Tailwind Webapp. Here a
 ## Licensing
 
 - Copyright 2020 <a href="https://www.creative-tim.com/?ref=tw-readme" target="_blank">Creative Tim</a>
-
-
 
 - Licensed under <a href="https://github.com/creativetimofficial/webapp/blob/master/LICENSE.md" target="_blank">MIT</a>
 
@@ -179,7 +214,7 @@ Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_bla
 
 ## Resources
 - Demo: <a href="https://demos.creative-tim.com/tailwind-webapp/?ref=tw-readme" target="_blank">https://demos.creative-tim.com/tailwind-webapp/?ref=tw-readme</a>
-- Download Page: <a href="https://github.com/creativetimofficial/tailwind-webapp/archive/master.zip" target="_blank">https://github.com/creativetimofficial/tailwind-webapp/archive/master.zip</a>
+- Download Page: <a href="https://www.creative-tim.com/product/tailwind-webapp?ref=tw-github-readme" target="_blank">https://www.creative-tim.com/product/tailwind-webapp</a>
 - Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/overview/webapp?ref=tw-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/overview/webapp?ref=tw-readme</a>
 - License Agreement: <a href="https://www.creative-tim.com/license?ref=tw-readme" target="_blank">https://www.creative-tim.com/license?ref=tw-readme</a>
 - Support: <a href="https://www.creative-tim.com/contact-us?ref=tw-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=tw-readme</a>
