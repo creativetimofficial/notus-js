@@ -1,4 +1,4 @@
-# Tailwind Webapp <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Flearning-lab%2Ftailwindcss-starter-project%23%2Fpresentation&text=Tailwind%20Starter%20Kit%20by%20Creative%20Tim&original_referer=&via=Creative%20Tim&hashtags=creativetim" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# Tailwind Webapp <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Ftailwind-webapp%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwindcss%20Admin%20and%20Presentation%20Starter%20Kit%20Template.%20Let%20Tailwind%20Webapp%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/tailwind-webapp/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/tailwind-webapp.svg)</a> <a href="https://github.com/creativetimofficial/tailwind-webapp/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/tailwind-webapp.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
@@ -78,7 +78,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Angular Landing Page. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Tailwind Webapp. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Tailwind Webapp. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=tw-readme" target="_blank">website</a>.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
