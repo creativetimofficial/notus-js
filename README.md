@@ -6,19 +6,12 @@
 
 ### A beautiful Starter Admin and Presentation Template for TailwindCSS.
 
+Start your development with a Free Tailwindcss Admin and Presentation Starter Kit Template. Let Tailwind Webapp amaze you with its cool features and build tools and get your project to a whole new level.
+
 Tailwind Webapp is Free and Open Source. It features multiple HTML elements and it comes with dynamic components for JavaScript (i.e. Vanilla JS).
 
-### CSS Components
-
-Tailwind Webapp comes with 120 Fully Coded CSS elements.
-
-### Pages
-
-This project also comes with 9 sample pages.
-
-### JavaScript Components
-
-We also feature 16 dynamic components.
+Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
+If you like bright and fresh colors, you will love this Free Tailwindcss Template! It features a huge number of components that can help you create amazing websites.
 
 ### Get Started
 
@@ -38,6 +31,71 @@ We also feature 16 dynamic components.
   - (If not) Run in terminal `npm run build:fontawesome`
   - (If not) Run in terminal `npm start` (this will create a static HTML server on https://localhost:3000)
 - Check more about [tailwindcss](https://tailwindcss.com/?ref=creativetim)
+
+
+### Pages
+
+If you want to get inspiration or just show something directly to your clients,
+you can jump start your development with our pre-built example pages. You will be able
+to quickly set up the basic structure for your web project.
+
+Here are all the page from the project:
+- [Presentation](https://demos.creative-tim.com/tailwind-webapp/?ref=tw-github-readme)
+- Admin Samples
+  - [Dashboard](https://demos.creative-tim.com/tailwind-webapp/pages/admin/dashboard.html?ref=tw-github-readme)
+  - [Settings](https://demos.creative-tim.com/tailwind-webapp/pages/admin/settings.html?ref=tw-github-readme)
+  - [Tables](https://demos.creative-tim.com/tailwind-webapp/pages/admin/tables.html?ref=tw-github-readme)
+  - [Maps](https://demos.creative-tim.com/tailwind-webapp/pages/admin/maps.html?ref=tw-github-readme)
+- Authentication Samples
+  - [Login](https://demos.creative-tim.com/tailwind-webapp/pages/auth/login.html?ref=tw-github-readme)
+  - [Register](https://demos.creative-tim.com/tailwind-webapp/pages/auth/register.html?ref=tw-github-readme)
+- Presentation Samples
+  - [Landing](https://demos.creative-tim.com/tailwind-webapp/pages/landing.html?ref=tw-github-readme)
+  - [Profile](https://demos.creative-tim.com/tailwind-webapp/pages/profile.html?ref=tw-github-readme)
+
+
+### Fully Coded Components
+
+Tailwind Webapp is built with over frontend 120 components, giving you the freedom of choosing and combining. All components can take variations in colors, that you can easily modify using Tailwindcss classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
+
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
+This Free Tailwindcss Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+
+
+### CSS Components
+
+Tailwind Webapp comes with 120 Fully Coded CSS elements, such as [Alerts](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp?ref=tw-github-readme), [Buttons](https://www.creative-tim.com/learning-lab/tailwind/buttons/webapp?ref=tw-github-readme), [Inputs](https://www.creative-tim.com/learning-lab/tailwind/inputs/webapp?ref=tw-github-readme) and many more.
+
+Please [check all of them here](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp?ref=tw-github-readme).
+
+### JavaScript Components
+
+We also feature the following 18 dynamic components:
+- [Alerts](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp?ref=tw-github-readme)
+- Popper for Menus
+  - [Dropdown](https://www.creative-tim.com/learning-lab/tailwind/dropdown/webapp?ref=tw-github-readme)
+  - [Dropup](https://www.creative-tim.com/learning-lab/tailwind/dropup/webapp?ref=tw-github-readme)
+- [Menus](https://www.creative-tim.com/learning-lab/tailwind/menu/webapp?ref=tw-github-readme)
+- Modals
+  - [Small](https://www.creative-tim.com/learning-lab/tailwind/small-modal/webapp?ref=tw-github-readme)
+  - [Regular](https://www.creative-tim.com/learning-lab/tailwind/modal/webapp?ref=tw-github-readme)
+  - [Large](https://www.creative-tim.com/learning-lab/tailwind/large-modal/webapp?ref=tw-github-readme)
+- [Navbars](https://www.creative-tim.com/learning-lab/tailwind/navbar/webapp?ref=tw-github-readme)
+- Popper for popover content
+  - [Left](https://www.creative-tim.com/learning-lab/tailwind/left-popover/webapp?ref=tw-github-readme)
+  - [Top](https://www.creative-tim.com/learning-lab/tailwind/top-popover/webapp?ref=tw-github-readme)
+  - [Right](https://www.creative-tim.com/learning-lab/tailwind/right-popover/webapp?ref=tw-github-readme)
+  - [Bottom](https://www.creative-tim.com/learning-lab/tailwind/bottom-popover/webapp?ref=tw-github-readme)
+- Tabs
+  - [With Text](https://www.creative-tim.com/learning-lab/tailwind/text-tab/webapp?ref=tw-github-readme)
+  - [With Icons](https://www.creative-tim.com/learning-lab/tailwind/icon-tab/webapp?ref=tw-github-readme)
+- Popper for tooltips content
+  - [Left](https://www.creative-tim.com/learning-lab/tailwind/left-tooltip/webapp?ref=tw-github-readme)
+  - [Top](https://www.creative-tim.com/learning-lab/tailwind/top-tooltip/webapp?ref=tw-github-readme)
+  - [Right](https://www.creative-tim.com/learning-lab/tailwind/right-tooltip/webapp?ref=tw-github-readme)
+  - [Bottom](https://www.creative-tim.com/learning-lab/tailwind/bottom-tooltip/webapp?ref=tw-github-readme)
 
 
 ## Table of Contents
