@@ -200,6 +200,8 @@ We use GitHub Issues as the official bug tracker for the Tailwind Webapp. Here a
 - <a href="https://www.creative-tim.com/templates/vuejs?ref=tw-readme" target="_blank">VueJS Products</a> from Creative Tim
 - <a href="https://www.creative-tim.com/templates?ref=tw-readme" target="_blank">More products</a> from Creative Tim
 - Check our Bundles <a href="https://www.creative-tim.com/bundles?ref=tw-readme" target="_blank">here</a>
+- Check our awesome builder <a href="https://www.creative-tim.com/builder/argon?ref=tw-readme" target="_blank">here</a>
+- Check Tailwind Starter Kit, the project behind this product <a href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=tw-readme" target="_blank">here</a>
 
 ### Social Media
 
