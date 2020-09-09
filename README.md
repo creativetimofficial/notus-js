@@ -186,7 +186,7 @@ We use GitHub Issues as the official bug tracker for the Tailwind Webapp. Here a
 
 - Copyright 2020 <a href="https://www.creative-tim.com/?ref=tw-readme" target="_blank">Creative Tim</a>
 
-- Licensed under <a href="https://github.com/creativetimofficial/webapp/blob/master/LICENSE.md" target="_blank">MIT</a>
+- Licensed under <a href="https://github.com/creativetimofficial/tailwind-webapp/blob/master/LICENSE.md" target="_blank">MIT</a>
 
 ## Useful Links
 
