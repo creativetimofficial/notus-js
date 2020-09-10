@@ -1,11 +1,11 @@
 {
   "name": "tailwind-webapp",
-  "homepage": "https://demos.creative-tim.com/tailwind-webapp/",
+  "homepage": "https://demos.creative-tim.com/tailwind-webapp-js/",
   "version": "1.0.0",
-  "description": "Tailwind Webapp - A free Tailwind and Vanilla JavaScript webapp template by Creative Tim.",
+  "description": "Tailwind WebApp JS - A free Tailwind and Vanilla JavaScript webapp template by Creative Tim.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/tailwind-webapp.git"
+    "url": "git+https://github.com/creativetimofficial/tailwind-webapp-js.git"
   },
   "license": "MIT",
   "main": "index.html",
@@ -20,7 +20,7 @@
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/tailwind-webapp/issues"
+    "url": "https://github.com/creativetimofficial/tailwind-webapp-js/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.14.0",
