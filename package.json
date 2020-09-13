@@ -26,6 +26,6 @@
     "@fortawesome/fontawesome-free": "5.14.0",
     "@tailwindcss/custom-forms": "0.2.1",
     "browser-sync": "2.26.12",
-    "tailwindcss": "1.8.2"
+    "tailwindcss": "1.8.8"
   }
 }
