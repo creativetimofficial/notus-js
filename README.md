@@ -1,19 +1,19 @@
-# Tailwind WebApp JS <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Ftailwind-webapp-js%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwindcss%20Admin%20and%20Presentation%20Starter%20Kit%20Template.%20Let%20Tailwind%20Webapp%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# Tailwind WebApp JS <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Ftailwind-webapp-js%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20JavaScript%20UI%20Kit%20and%20Admin.%20Let%20Tailwind%20WebApp%20JS%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/tailwind-webapp-js/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/tailwind-webapp-js.svg)</a> <a href="https://github.com/creativetimofficial/tailwind-webapp-js/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/tailwind-webapp-js.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
 ![Tailwind WebApp JS](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-js/tailwind-webapp-js.jpg?raw=true)
 
-### A beautiful Starter Admin and Presentation Template for TailwindCSS.
+### A beautiful UI Kit and Admin for Tailwind CSS.
 
-Start your development with a Free Tailwindcss Admin and Presentation Starter Kit Template. Let Tailwind WebApp JS amaze you with its cool features and build tools and get your project to a whole new level.
+Start your development with a Free Tailwind CSS and JavaScript UI Kit and Admin. Let Tailwind WebApp JS amaze you with its cool features and build tools and get your project to a whole new level.
 
 Tailwind WebApp JS is Free and Open Source. It features multiple HTML elements and it comes with dynamic components for JavaScript (i.e. Vanilla JS).
 
 It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=twjs-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
 
 Speed up your web development with a beautiful product made by <a href="https://creative-tim.com/" target="_blank">Creative Tim </a>.
-If you like bright and fresh colors, you will love this Free Tailwindcss Template! It features a huge number of components that can help you create amazing websites.
+If you like bright and fresh colors, you will love this Free Tailwind CSS Template! It features a huge number of components that can help you create amazing websites.
 
 ### Get Started
 
@@ -32,7 +32,7 @@ If you like bright and fresh colors, you will love this Free Tailwindcss Templat
   - (If not) Run in terminal `npm run build:tailwind` (each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to run this command)
   - (If not) Run in terminal `npm run build:fontawesome`
   - (If not) Run in terminal `npm start` (this will create a static HTML server on https://localhost:3000)
-- Check more about [tailwindcss](https://tailwindcss.com/?ref=creativetim)
+- Check more about [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
 
 
 ### Pages
@@ -58,46 +58,31 @@ Here are all the page from the project:
 
 ### Fully Coded Components
 
-Tailwind WebApp JS is built with over frontend 120 components, giving you the freedom of choosing and combining. All components can take variations in colors, that you can easily modify using Tailwindcss classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
+Tailwind WebApp JS is built with over frontend 120 components, giving you the freedom of choosing and combining. All components can take variations in colors, that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Tailwindcss Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 
 ### CSS Components
 
-Tailwind WebApp JS comes with 120 Fully Coded CSS elements, such as [Alerts](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp-js?ref=twjs-github-readme), [Buttons](https://www.creative-tim.com/learning-lab/tailwind/buttons/webapp-js?ref=twjs-github-readme), [Inputs](https://www.creative-tim.com/learning-lab/tailwind/inputs/webapp-js?ref=twjs-github-readme) and many more.
+Tailwind WebApp JS comes with 120 Fully Coded CSS elements, such as [Alerts](https://www.creative-tim.com/learning-lab/js/tailwind/alerts/webapp?ref=twjs-github-readme), [Buttons](https://www.creative-tim.com/learning-lab/tailwind/js/buttons/webapp?ref=twjs-github-readme), [Inputs](https://www.creative-tim.com/learning-lab/tailwind/js/inputs/webapp?ref=twjs-github-readme) and many more.
 
-Please [check all of them here](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp-js?ref=twjs-github-readme).
+Please [check all of them here](https://www.creative-tim.com/learning-lab/js/tailwind/alerts/webapp?ref=twjs-github-readme).
 
 ### JavaScript Components
 
 We also feature the following 18 dynamic components:
-- [Alerts](https://www.creative-tim.com/learning-lab/tailwind/alerts/webapp-js?ref=twjs-github-readme)
-- Popper for Menus
-  - [Dropdown](https://www.creative-tim.com/learning-lab/tailwind/dropdown/webapp-js?ref=twjs-github-readme)
-  - [Dropup](https://www.creative-tim.com/learning-lab/tailwind/dropup/webapp-js?ref=twjs-github-readme)
-- [Menus](https://www.creative-tim.com/learning-lab/tailwind/menu/webapp-js?ref=twjs-github-readme)
-- Modals
-  - [Small](https://www.creative-tim.com/learning-lab/tailwind/small-modal/webapp-js?ref=twjs-github-readme)
-  - [Regular](https://www.creative-tim.com/learning-lab/tailwind/modal/webapp-js?ref=twjs-github-readme)
-  - [Large](https://www.creative-tim.com/learning-lab/tailwind/large-modal/webapp-js?ref=twjs-github-readme)
-- [Navbars](https://www.creative-tim.com/learning-lab/tailwind/navbar/webapp-js?ref=twjs-github-readme)
-- Popper for popover content
-  - [Left](https://www.creative-tim.com/learning-lab/tailwind/left-popover/webapp-js?ref=twjs-github-readme)
-  - [Top](https://www.creative-tim.com/learning-lab/tailwind/top-popover/webapp-js?ref=twjs-github-readme)
-  - [Right](https://www.creative-tim.com/learning-lab/tailwind/right-popover/webapp-js?ref=twjs-github-readme)
-  - [Bottom](https://www.creative-tim.com/learning-lab/tailwind/bottom-popover/webapp-js?ref=twjs-github-readme)
-- Tabs
-  - [With Text](https://www.creative-tim.com/learning-lab/tailwind/text-tab/webapp-js?ref=twjs-github-readme)
-  - [With Icons](https://www.creative-tim.com/learning-lab/tailwind/icon-tab/webapp-js?ref=twjs-github-readme)
-- Popper for tooltips content
-  - [Left](https://www.creative-tim.com/learning-lab/tailwind/left-tooltip/webapp-js?ref=twjs-github-readme)
-  - [Top](https://www.creative-tim.com/learning-lab/tailwind/top-tooltip/webapp-js?ref=twjs-github-readme)
-  - [Right](https://www.creative-tim.com/learning-lab/tailwind/right-tooltip/webapp-js?ref=twjs-github-readme)
-  - [Bottom](https://www.creative-tim.com/learning-lab/tailwind/bottom-tooltip/webapp-js?ref=twjs-github-readme)
+- [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/webapp?ref=twa-github-readme)
+- [Popper for Menus](https://www.creative-tim.com/learning-lab/tailwind/js/dropdowns/webapp?ref=twa-github-readme)
+- [Menus](https://www.creative-tim.com/learning-lab/tailwind/js/menus/webapp?ref=twa-github-readme)
+- [Modals](https://www.creative-tim.com/learning-lab/tailwind/js/modals/webapp?ref=twa-github-readme)
+- [Navbars](https://www.creative-tim.com/learning-lab/tailwind/js/navbar/webapp?ref=twa-github-readme)
+- [Popper for popover content](https://www.creative-tim.com/learning-lab/tailwind/js/popovers/webapp?ref=twa-github-readme)
+- [Tabs](https://www.creative-tim.com/learning-lab/tailwind/js/tabs/webapp?ref=twa-github-readme)
+- [Popper for tooltips content](https://www.creative-tim.com/learning-lab/tailwind/js/tooltips/webapp?ref=twa-github-readme)
 
 
 ## Table of Contents
@@ -122,7 +107,7 @@ We also feature the following 18 dynamic components:
 | [![Tailwind WebApp Angular](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-angular/tailwind-webapp-angular.jpg?raw=true)](https://www.creative-tim.com/product/tailwind-webapp-angular?ref=twjs-github-readme)  | [![Tailwind WebApp](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-js/tailwind-webapp-js.jpg?raw=true)](https://www.creative-tim.com/product/tailwind-webapp-js?ref=twjs-github-readme)  | [![Tailwind WebApp NextJS](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-nextjs/tailwind-webapp-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/tailwind-webapp-nextjs?ref=twjs-github-readme)  | [![Tailwind WebApp React](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-react/tailwind-webapp-react.jpg?raw=true)](https://www.creative-tim.com/product/tailwind-webapp-react?ref=twjs-github-readme)  | [![Tailwind WebApp Svelte](https://github.com/creativetimofficial/public-assets/blob/master/tailwind-webapp-svelte/tailwind-webapp-svelte.jpg?raw=true)](https://www.creative-tim.com/product/tailwind-webapp-svelte?ref=twjs-github-readme)  | [![Vue Tailwind WebApp](https://github.com/creativetimofficial/public-assets/blob/master/vue-tailwind-webapp/vue-tailwind-webapp.jpg?raw=true)](https://www.creative-tim.com/product/vue-tailwind-webapp?ref=twjs-github-readme)
 
 ## Documentation
-The documentation for the Tailwind WebApp JS is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/overview/webapp-js?ref=twjs-readme" target="_blank">website</a>.
+The documentation for the Tailwind WebApp JS is hosted at our <a href="https://www.creative-tim.com/learning-lab/js/tailwind/overview/webapp?ref=twjs-readme" target="_blank">website</a>.
 
 ## Quick start
 
@@ -217,7 +202,7 @@ Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_bla
 ## Resources
 - Demo: <a href="https://demos.creative-tim.com/tailwind-webapp-js/?ref=twjs-readme" target="_blank">https://demos.creative-tim.com/tailwind-webapp-js/?ref=twjs-readme</a>
 - Download Page: <a href="https://www.creative-tim.com/product/tailwind-webapp-js?ref=twjs-github-readme" target="_blank">https://www.creative-tim.com/product/tailwind-webapp-js</a>
-- Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/overview/webapp-js?ref=twjs-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/overview/webapp-js?ref=twjs-readme</a>
+- Documentation: <a href="https://www.creative-tim.com/learning-lab/js/tailwind/overview/webapp?ref=twjs-readme" target="_blank">https://www.creative-tim.com/learning-lab/js/tailwind/overview/webapp?ref=twjs-readme</a>
 - License Agreement: <a href="https://www.creative-tim.com/license?ref=twjs-readme" target="_blank">https://www.creative-tim.com/license?ref=twjs-readme</a>
 - Support: <a href="https://www.creative-tim.com/contact-us?ref=twjs-readme" target="_blank">https://www.creative-tim.com/contact-us?ref=twjs-readme</a>
 - Issues: <a href="https://github.com/creativetimofficial/tailwind-webapp-js/issues" target="_blank">Github Issues Page</a>
