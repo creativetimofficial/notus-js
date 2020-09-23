@@ -75,14 +75,14 @@ Please [check all of them here](https://www.creative-tim.com/learning-lab/js/tai
 ### JavaScript Components
 
 We also feature the following 18 dynamic components:
-- [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/webapp?ref=twa-github-readme)
-- [Popper for Menus](https://www.creative-tim.com/learning-lab/tailwind/js/dropdowns/webapp?ref=twa-github-readme)
-- [Menus](https://www.creative-tim.com/learning-lab/tailwind/js/menus/webapp?ref=twa-github-readme)
-- [Modals](https://www.creative-tim.com/learning-lab/tailwind/js/modals/webapp?ref=twa-github-readme)
-- [Navbars](https://www.creative-tim.com/learning-lab/tailwind/js/navbar/webapp?ref=twa-github-readme)
-- [Popper for popover content](https://www.creative-tim.com/learning-lab/tailwind/js/popovers/webapp?ref=twa-github-readme)
-- [Tabs](https://www.creative-tim.com/learning-lab/tailwind/js/tabs/webapp?ref=twa-github-readme)
-- [Popper for tooltips content](https://www.creative-tim.com/learning-lab/tailwind/js/tooltips/webapp?ref=twa-github-readme)
+- [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/webapp?ref=twjs-github-readme)
+- [Popper for Menus](https://www.creative-tim.com/learning-lab/tailwind/js/dropdowns/webapp?ref=twjs-github-readme)
+- [Menus](https://www.creative-tim.com/learning-lab/tailwind/js/menus/webapp?ref=twjs-github-readme)
+- [Modals](https://www.creative-tim.com/learning-lab/tailwind/js/modals/webapp?ref=twjs-github-readme)
+- [Navbars](https://www.creative-tim.com/learning-lab/tailwind/js/navbar/webapp?ref=twjs-github-readme)
+- [Popper for popover content](https://www.creative-tim.com/learning-lab/tailwind/js/popovers/webapp?ref=twjs-github-readme)
+- [Tabs](https://www.creative-tim.com/learning-lab/tailwind/js/tabs/webapp?ref=twjs-github-readme)
+- [Popper for tooltips content](https://www.creative-tim.com/learning-lab/tailwind/js/tooltips/webapp?ref=twjs-github-readme)
 
 
 ## Table of Contents
