@@ -2,7 +2,7 @@
   "name": "tailwind-webapp-js",
   "homepage": "https://demos.creative-tim.com/tailwind-webapp-js/",
   "version": "1.0.0",
-  "description": "Tailwind WebApp JS - A free Tailwind and Vanilla JavaScript webapp template by Creative Tim.",
+  "description": "Tailwind WebApp JS - A free Tailwind CSS and Vanilla JavaScript WebApp template by Creative Tim.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/tailwind-webapp-js.git"
@@ -26,6 +26,6 @@
     "@fortawesome/fontawesome-free": "5.14.0",
     "@tailwindcss/custom-forms": "0.2.1",
     "browser-sync": "2.26.12",
-    "tailwindcss": "1.8.8"
+    "tailwindcss": "1.8.10"
   }
 }
