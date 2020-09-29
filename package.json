@@ -1,0 +1,29 @@
+{
+  "name": "tailwind-webapp",
+  "homepage": "https://demos.creative-tim.com/tailwind-webapp-js/",
+  "version": "1.0.0",
+  "description": "Tailwind WebApp JS - A free Tailwind CSS and Vanilla JavaScript WebApp template by Creative Tim.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativetimofficial/tailwind-webapp-js.git"
+  },
+  "license": "MIT",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start --server --index \"./index.html\"",
+    "build:tailwind": "tailwind build assets/styles/index.css -o assets/styles/tailwind.css",
+    "build:fontawesome": "mkdir -p assets/vendor/@fortawesome/fontawesome-free/webfonts && mkdir -p assets/vendor/@fortawesome/fontawesome-free/css && cp -a ./node_modules/@fortawesome/fontawesome-free/webfonts assets/vendor/@fortawesome/fontawesome-free/ && cp ./node_modules/@fortawesome/fontawesome-free/css/all.min.css assets/vendor/@fortawesome/fontawesome-free/css/all.min.css",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm run build:tailwind && npm run build:fontawesome && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/creativetimofficial/tailwind-webapp-js/issues"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.14.0",
+    "@tailwindcss/custom-forms": "0.2.1",
+    "browser-sync": "2.26.12",
+    "tailwindcss": "1.8.10"
+  }
+}
