@@ -4,7 +4,7 @@
 
 ![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)
 
-### A beautiful UI Kit and Admin for Tailwind CSS.
+### A beautiful UI Kit and Admin for Tailwind CSS and JavaScript.
 
 Start your development with a Free Tailwind CSS and JavaScript UI Kit and Admin. Let Notus JS amaze you with its cool features and build tools and get your project to a whole new level.
 
