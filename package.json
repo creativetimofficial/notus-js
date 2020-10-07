@@ -1,11 +1,11 @@
 {
-  "name": "tailwind-webapp-js",
-  "homepage": "https://demos.creative-tim.com/tailwind-webapp-js/",
+  "name": "notus-js",
+  "homepage": "https://demos.creative-tim.com/notus-js/",
   "version": "1.0.0",
-  "description": "Tailwind WebApp JS - A free Tailwind CSS and Vanilla JavaScript WebApp template by Creative Tim.",
+  "description": "Notus JS - Free Tailwind CSS UI Kit and Admin by Creative Tim.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/tailwind-webapp-js.git"
+    "url": "git+https://github.com/creativetimofficial/notus-js.git"
   },
   "license": "MIT",
   "main": "index.html",
@@ -20,7 +20,7 @@
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/creativetimofficial/tailwind-webapp-js/issues"
+    "url": "https://github.com/creativetimofficial/notus-js/issues"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.14.0",
