@@ -1,8 +1,4 @@
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
   purge: {
     enabled: true,
     content: [
@@ -10,7 +6,7 @@ module.exports = {
       "./*.html"
     ],
     options: {
-      whitelist: [],
+      safelist: [],
     },
   },
   theme: {

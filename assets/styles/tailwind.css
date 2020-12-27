@@ -1366,7 +1366,7 @@ video {
   float: left;
 }
 
-.clearfix:after {
+.flow-root:after {
   content: "";
   display: table;
   clear: both;
@@ -2188,7 +2188,7 @@ video {
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
-.focus\:shadow-outline:focus {
+.focus\:ring:focus {
   box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
 }
 
@@ -2383,7 +2383,7 @@ video {
   vertical-align: middle;
 }
 
-.whitespace-no-wrap {
+.whitespace-nowrap {
   white-space: nowrap;
 }
 
@@ -2587,7 +2587,7 @@ video {
     flex-direction: column;
   }
 
-  .md\:flex-no-wrap {
+  .md\:flex-nowrap {
     flex-wrap: nowrap;
   }
 
