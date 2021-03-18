@@ -35,7 +35,7 @@ browser-sync                    2.26.12   →   2.26.14
 tailwindcss                      1.8.10   →     2.0.4
 ```
 ### Warning
-_If needed_
+_On a clean install there may be some warnings from request, chokidar, fsevents - they come from node_modules, and they do not affect the product at all._
 
 ## [1.0.0] 2020-09-29
 ### Original Release
