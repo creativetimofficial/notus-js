@@ -1,7 +1,7 @@
 {
   "name": "notus-js",
   "homepage": "https://demos.creative-tim.com/notus-js/",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Notus JS - Free Tailwind CSS UI Kit and Admin by Creative Tim.",
   "repository": {
     "type": "git",
@@ -23,9 +23,13 @@
     "url": "https://github.com/creativetimofficial/notus-js/issues"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "5.14.0",
-    "@tailwindcss/custom-forms": "0.2.1",
-    "browser-sync": "2.26.12",
-    "tailwindcss": "1.8.10"
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "@tailwindcss/forms": "0.2.1",
+    "browser-sync": "2.26.14",
+    "tailwindcss": "2.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.2.5",
+    "postcss": "8.2.8"
   }
 }
