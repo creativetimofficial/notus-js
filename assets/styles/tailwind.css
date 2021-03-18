@@ -1273,6 +1273,11 @@ select {
   background-color: rgba(228, 228, 231, var(--tw-bg-opacity));
 }
 
+.bg-coolGray-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
+}
+
 .bg-coolGray-100 {
   --tw-bg-opacity: 1;
   background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
@@ -1316,6 +1321,11 @@ select {
 .active\:bg-indigo-600:active {
   --tw-bg-opacity: 1;
   background-color: rgba(79, 70, 229, var(--tw-bg-opacity));
+}
+
+.active\:bg-coolGray-50:active {
+  --tw-bg-opacity: 1;
+  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
 }
 
 .active\:bg-coolGray-600:active {
