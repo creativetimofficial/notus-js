@@ -32,7 +32,7 @@
 ```
 @fortawesome/fontawesome-free    5.14.0   →    5.15.3
 browser-sync                    2.26.12   →   2.26.14
-tailwindcss                      1.8.10   →     2.0.3
+tailwindcss                      1.8.10   →     2.0.4
 ```
 ### Warning
 _If needed_
