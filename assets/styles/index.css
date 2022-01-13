@@ -3,3 +3,29 @@
 @tailwind components;
 
 @tailwind utilities;
+@tailwind variants;
+
+
+
+@layer utilities {
+    .outline-black {
+      outline: 2px dotted black;
+      outline-offset: 2px;
+    }
+  
+    .outline-white {
+      outline: 2px dotted white;
+      outline-offset: 2px;
+    }
+  }
+@layer components
+{
+    .flex-grow-0
+    {
+        @apply grow-0
+    }
+    .flex-shrink
+    {
+        @apply shrink
+    }
+}
