@@ -1,7 +1,7 @@
 <!--
 
 =========================================================
-* Notus JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Notus Tailwind JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/notus-js
@@ -38,7 +38,7 @@
       href="../../assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
     />
     <link rel="stylesheet" href="../../assets/styles/tailwind.css" />
-    <title>Dashboard | Notus JS by Creative Tim</title>
+    <title>Dashboard | Notus Tailwind JS by Creative Tim</title>
   </head>
   <body class="text-blueGray-700 antialiased">
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -60,7 +60,7 @@
             class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
             href="../../index.html"
           >
-            Notus JS
+            Notus Tailwind JS
           </a>
           <ul class="md:hidden items-center flex flex-wrap list-none">
             <li class="inline-block relative">
@@ -152,7 +152,7 @@
                     class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
                     href="../../index.html"
                   >
-                    Notus JS
+                    Notus Tailwind JS
                   </a>
                 </div>
                 <div class="w-6/12 flex justify-end">
@@ -1146,9 +1146,8 @@
       /* Make dynamic date appear */
       (function () {
         if (document.getElementById("get-current-year")) {
-          document.getElementById(
-            "get-current-year"
-          ).innerHTML = new Date().getFullYear();
+          document.getElementById("get-current-year").innerHTML =
+            new Date().getFullYear();
         }
       })();
       /* Sidebar - Side navigation menu on mobile/responsive mode */
@@ -1166,7 +1165,7 @@
           element = element.parentNode;
         }
         Popper.createPopper(element, document.getElementById(dropdownID), {
-          placement: "bottom-start",
+          placement: "bottom-start"
         });
         document.getElementById(dropdownID).classList.toggle("hidden");
         document.getElementById(dropdownID).classList.toggle("block");
@@ -1185,7 +1184,7 @@
               "April",
               "May",
               "June",
-              "July",
+              "July"
             ],
             datasets: [
               {
@@ -1193,16 +1192,16 @@
                 backgroundColor: "#4c51bf",
                 borderColor: "#4c51bf",
                 data: [65, 78, 66, 44, 56, 67, 75],
-                fill: false,
+                fill: false
               },
               {
                 label: new Date().getFullYear() - 1,
                 fill: false,
                 backgroundColor: "#fff",
                 borderColor: "#fff",
-                data: [40, 68, 86, 74, 56, 60, 87],
-              },
-            ],
+                data: [40, 68, 86, 74, 56, 60, 87]
+              }
+            ]
           },
           options: {
             maintainAspectRatio: false,
@@ -1210,34 +1209,34 @@
             title: {
               display: false,
               text: "Sales Charts",
-              fontColor: "white",
+              fontColor: "white"
             },
             legend: {
               labels: {
-                fontColor: "white",
+                fontColor: "white"
               },
               align: "end",
-              position: "bottom",
+              position: "bottom"
             },
             tooltips: {
               mode: "index",
-              intersect: false,
+              intersect: false
             },
             hover: {
               mode: "nearest",
-              intersect: true,
+              intersect: true
             },
             scales: {
               xAxes: [
                 {
                   ticks: {
-                    fontColor: "rgba(255,255,255,.7)",
+                    fontColor: "rgba(255,255,255,.7)"
                   },
                   display: true,
                   scaleLabel: {
                     display: false,
                     labelString: "Month",
-                    fontColor: "white",
+                    fontColor: "white"
                   },
                   gridLines: {
                     display: false,
@@ -1246,20 +1245,20 @@
                     color: "rgba(33, 37, 41, 0.3)",
                     zeroLineColor: "rgba(0, 0, 0, 0)",
                     zeroLineBorderDash: [2],
-                    zeroLineBorderDashOffset: [2],
-                  },
-                },
+                    zeroLineBorderDashOffset: [2]
+                  }
+                }
               ],
               yAxes: [
                 {
                   ticks: {
-                    fontColor: "rgba(255,255,255,.7)",
+                    fontColor: "rgba(255,255,255,.7)"
                   },
                   display: true,
                   scaleLabel: {
                     display: false,
                     labelString: "Value",
-                    fontColor: "white",
+                    fontColor: "white"
                   },
                   gridLines: {
                     borderDash: [3],
@@ -1268,12 +1267,12 @@
                     color: "rgba(255, 255, 255, 0.15)",
                     zeroLineColor: "rgba(33, 37, 41, 0)",
                     zeroLineBorderDash: [2],
-                    zeroLineBorderDashOffset: [2],
-                  },
-                },
-              ],
-            },
-          },
+                    zeroLineBorderDashOffset: [2]
+                  }
+                }
+              ]
+            }
+          }
         };
         var ctx = document.getElementById("line-chart").getContext("2d");
         window.myLine = new Chart(ctx, config);
@@ -1289,7 +1288,7 @@
               "April",
               "May",
               "June",
-              "July",
+              "July"
             ],
             datasets: [
               {
@@ -1298,7 +1297,7 @@
                 borderColor: "#ed64a6",
                 data: [30, 78, 56, 34, 100, 45, 13],
                 fill: false,
-                barThickness: 8,
+                barThickness: 8
               },
               {
                 label: new Date().getFullYear() - 1,
@@ -1306,31 +1305,31 @@
                 backgroundColor: "#4c51bf",
                 borderColor: "#4c51bf",
                 data: [27, 68, 86, 74, 10, 4, 87],
-                barThickness: 8,
-              },
-            ],
+                barThickness: 8
+              }
+            ]
           },
           options: {
             maintainAspectRatio: false,
             responsive: true,
             title: {
               display: false,
-              text: "Orders Chart",
+              text: "Orders Chart"
             },
             tooltips: {
               mode: "index",
-              intersect: false,
+              intersect: false
             },
             hover: {
               mode: "nearest",
-              intersect: true,
+              intersect: true
             },
             legend: {
               labels: {
-                fontColor: "rgba(0,0,0,.4)",
+                fontColor: "rgba(0,0,0,.4)"
               },
               align: "end",
-              position: "bottom",
+              position: "bottom"
             },
             scales: {
               xAxes: [
@@ -1338,7 +1337,7 @@
                   display: false,
                   scaleLabel: {
                     display: true,
-                    labelString: "Month",
+                    labelString: "Month"
                   },
                   gridLines: {
                     borderDash: [2],
@@ -1346,16 +1345,16 @@
                     color: "rgba(33, 37, 41, 0.3)",
                     zeroLineColor: "rgba(33, 37, 41, 0.3)",
                     zeroLineBorderDash: [2],
-                    zeroLineBorderDashOffset: [2],
-                  },
-                },
+                    zeroLineBorderDashOffset: [2]
+                  }
+                }
               ],
               yAxes: [
                 {
                   display: true,
                   scaleLabel: {
                     display: false,
-                    labelString: "Value",
+                    labelString: "Value"
                   },
                   gridLines: {
                     borderDash: [2],
@@ -1364,12 +1363,12 @@
                     color: "rgba(33, 37, 41, 0.2)",
                     zeroLineColor: "rgba(33, 37, 41, 0.15)",
                     zeroLineBorderDash: [2],
-                    zeroLineBorderDashOffset: [2],
-                  },
-                },
-              ],
-            },
-          },
+                    zeroLineBorderDashOffset: [2]
+                  }
+                }
+              ]
+            }
+          }
         };
         ctx = document.getElementById("bar-chart").getContext("2d");
         window.myBar = new Chart(ctx, config);

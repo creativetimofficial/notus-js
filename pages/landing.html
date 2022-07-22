@@ -1,7 +1,7 @@
 <!--
 
 =========================================================
-* Notus JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Notus Tailwind JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/notus-js
@@ -34,7 +34,7 @@
       href="../assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
     />
     <link rel="stylesheet" href="../assets/styles/tailwind.css" />
-    <title>Landing | Notus JS by Creative Tim</title>
+    <title>Landing | Notus Tailwind JS by Creative Tim</title>
   </head>
   <body class="text-blueGray-700 antialiased">
     <nav
@@ -49,7 +49,7 @@
           <a
             class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
             href="../index.html"
-            >Notus JS</a
+            >Notus Tailwind JS</a
           ><button
             class="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
             type="button"
@@ -229,8 +229,8 @@
                 </h1>
                 <p class="mt-4 text-lg text-blueGray-200">
                   This is a simple example of a Landing Page you can build using
-                  Notus JS. It features multiple CSS components based on the
-                  Tailwind CSS design system.
+                  Notus Tailwind JS. It features multiple CSS components based
+                  on the Tailwind CSS design system.
                 </p>
               </div>
             </div>
@@ -339,7 +339,7 @@
                 go. Just make sure you enable them first via JavaScript.
               </p>
               <a href="../index.html" class="font-bold text-blueGray-700 mt-8"
-                >Check Notus JS!</a
+                >Check Notus Tailwind JS!</a
               >
             </div>
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -893,7 +893,8 @@
         >
           <div class="w-full md:w-4/12 px-4 mx-auto text-center">
             <div class="text-sm text-blueGray-500 font-semibold py-1">
-              Copyright © <span id="get-current-year"></span> Notus JS by
+              Copyright © <span id="get-current-year"></span> Notus Tailwind JS
+              by
               <a
                 href="https://www.creative-tim.com?ref=njs-landing"
                 class="text-blueGray-500 hover:text-blueGray-800"
@@ -910,9 +911,8 @@
     /* Make dynamic date appear */
     (function () {
       if (document.getElementById("get-current-year")) {
-        document.getElementById(
-          "get-current-year"
-        ).innerHTML = new Date().getFullYear();
+        document.getElementById("get-current-year").innerHTML =
+          new Date().getFullYear();
       }
     })();
     /* Function for opning navbar on mobile */
@@ -927,7 +927,7 @@
         element = element.parentNode;
       }
       Popper.createPopper(element, document.getElementById(dropdownID), {
-        placement: "bottom-start",
+        placement: "bottom-start"
       });
       document.getElementById(dropdownID).classList.toggle("hidden");
       document.getElementById(dropdownID).classList.toggle("block");

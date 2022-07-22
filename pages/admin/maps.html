@@ -1,7 +1,7 @@
 <!--
 
 =========================================================
-* Notus JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
+* Notus Tailwind JS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/notus-js
@@ -34,7 +34,7 @@
       href="../../assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
     />
     <link rel="stylesheet" href="../../assets/styles/tailwind.css" />
-    <title>Maps | Notus JS by Creative Tim</title>
+    <title>Maps | Notus Tailwind JS by Creative Tim</title>
   </head>
   <body class="text-blueGray-700 antialiased">
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -56,7 +56,7 @@
             class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
             href="../../index.html"
           >
-            Notus JS
+            Notus Tailwind JS
           </a>
           <ul class="md:hidden items-center flex flex-wrap list-none">
             <li class="inline-block relative">
@@ -148,7 +148,7 @@
                     class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
                     href="../../index.html"
                   >
-                    Notus JS
+                    Notus Tailwind JS
                   </a>
                 </div>
                 <div class="w-6/12 flex justify-end">
@@ -722,9 +722,8 @@
       /* Make dynamic date appear */
       (function () {
         if (document.getElementById("get-current-year")) {
-          document.getElementById(
-            "get-current-year"
-          ).innerHTML = new Date().getFullYear();
+          document.getElementById("get-current-year").innerHTML =
+            new Date().getFullYear();
         }
       })();
       /* Sidebar - Side navigation menu on mobile/responsive mode */
@@ -742,7 +741,7 @@
           element = element.parentNode;
         }
         Popper.createPopper(element, document.getElementById(dropdownID), {
-          placement: "bottom-start",
+          placement: "bottom-start"
         });
         document.getElementById(dropdownID).classList.toggle("hidden");
         document.getElementById(dropdownID).classList.toggle("block");
@@ -765,44 +764,44 @@
             {
               featureType: "administrative",
               elementType: "labels.text.fill",
-              stylers: [{ color: "#444444" }],
+              stylers: [{ color: "#444444" }]
             },
             {
               featureType: "landscape",
               elementType: "all",
-              stylers: [{ color: "#f2f2f2" }],
+              stylers: [{ color: "#f2f2f2" }]
             },
             {
               featureType: "poi",
               elementType: "all",
-              stylers: [{ visibility: "off" }],
+              stylers: [{ visibility: "off" }]
             },
             {
               featureType: "road",
               elementType: "all",
-              stylers: [{ saturation: -100 }, { lightness: 45 }],
+              stylers: [{ saturation: -100 }, { lightness: 45 }]
             },
             {
               featureType: "road.highway",
               elementType: "all",
-              stylers: [{ visibility: "simplified" }],
+              stylers: [{ visibility: "simplified" }]
             },
             {
               featureType: "road.arterial",
               elementType: "labels.icon",
-              stylers: [{ visibility: "off" }],
+              stylers: [{ visibility: "off" }]
             },
             {
               featureType: "transit",
               elementType: "all",
-              stylers: [{ visibility: "off" }],
+              stylers: [{ visibility: "off" }]
             },
             {
               featureType: "water",
               elementType: "all",
-              stylers: [{ color: "#fbb6ce" }, { visibility: "on" }],
-            },
-          ],
+              stylers: [{ color: "#fbb6ce" }, { visibility: "on" }]
+            }
+          ]
         };
 
         map = new google.maps.Map(map, mapOptions);
@@ -811,15 +810,15 @@
           position: myLatlng,
           map: map,
           animation: google.maps.Animation.DROP,
-          title: "Hello World!",
+          title: "Hello World!"
         });
 
         const contentString =
-          '<div class="info-window-content"><h2>Notus JS</h2>' +
+          '<div class="info-window-content"><h2>Notus Tailwind JS</h2>' +
           "<p>A beautiful UI Kit and Admin for Tailwind CSS. It is Free and Open Source.</p></div>";
 
         const infowindow = new google.maps.InfoWindow({
-          content: contentString,
+          content: contentString
         });
 
         google.maps.event.addListener(marker, "click", function () {
