@@ -1,14 +1,14 @@
-# Notus JS <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-js%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20JavaScript%20UI%20Kit%20and%20Admin.%20Let%20Notus%20JS%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
+# Notus Tailwind JS <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-js%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20JavaScript%20UI%20Kit%20and%20Admin.%20Let%20Notus%20JS%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level." target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/creativetimofficial/notus-js/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/notus-js.svg)</a> <a href="https://github.com/creativetimofficial/notus-js/issues?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/notus-js.svg)</a> <a href="https://gitter.im/creative-tim-general/Lobby" target="_blank">![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)</a> <a href="https://discord.gg/E4aHAQy" target="_blank">![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)</a>
 
-![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)
+![Notus Tailwind JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)
 
 ### A beautiful UI Kit and Admin for Tailwind CSS and JavaScript.
 
-Start your development with a Free Tailwind CSS and JavaScript UI Kit and Admin. Let Notus JS amaze you with its cool features and build tools and get your project to a whole new level.
+Start your development with a Free Tailwind CSS and JavaScript UI Kit and Admin. Let Notus Tailwind JS amaze you with its cool features and build tools and get your project to a whole new level.
 
-Notus JS is Free and Open Source. It features multiple HTML elements and it comes with dynamic components for JavaScript (i.e. Vanilla JS).
+Notus Tailwind JS is Free and Open Source. It features multiple HTML elements and it comes with dynamic components for JavaScript (i.e. Vanilla JS).
 
 It is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=njs-github-readme) by Creative Tim, and it is build with both presentation pages, and pages for an admin dashboard.
 
@@ -34,7 +34,6 @@ If you like bright and fresh colors, you will love this Free Tailwind CSS Templa
   - (If not) Run in terminal `npm start` (this will create a static HTML server on https://localhost:3000)
 - Check more about [Tailwind CSS](https://tailwindcss.com/?ref=creativetim)
 
-
 ### Pages
 
 If you want to get inspiration or just show something directly to your clients,
@@ -42,6 +41,7 @@ you can jump start your development with our pre-built example pages. You will b
 to quickly set up the basic structure for your web project.
 
 Here are all the page from the project:
+
 - [Presentation](https://demos.creative-tim.com/notus-js/?ref=njs-github-readme)
 - Admin Samples
   - [Dashboard](https://demos.creative-tim.com/notus-js/pages/admin/dashboard.html?ref=njs-github-readme)
@@ -55,26 +55,25 @@ Here are all the page from the project:
   - [Landing](https://demos.creative-tim.com/notus-js/pages/landing.html?ref=njs-github-readme)
   - [Profile](https://demos.creative-tim.com/notus-js/pages/profile.html?ref=njs-github-readme)
 
-
 ### Fully Coded Components
 
-Notus JS is built with over frontend 120 components, giving you the freedom of choosing and combining. All components can take variations in colors, that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
+Notus Tailwind JS is built with over frontend 120 components, giving you the freedom of choosing and combining. All components can take variations in colors, that you can easily modify using Tailwind CSS classes (NOTE: each time you add a new class, a class that does not exist in `assets/styles/tailwind.css`, you will need to compile again tailwind).
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
 This Free Tailwind CSS Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
-
 ### CSS Components
 
-Notus JS comes with 120 Fully Coded CSS elements, such as [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=njs-github-readme), [Buttons](https://www.creative-tim.com/learning-lab/tailwind/js/buttons/notus?ref=njs-github-readme), [Inputs](https://www.creative-tim.com/learning-lab/tailwind/js/inputs/notus?ref=njs-github-readme) and many more.
+Notus Tailwind JS comes with 120 Fully Coded CSS elements, such as [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=njs-github-readme), [Buttons](https://www.creative-tim.com/learning-lab/tailwind/js/buttons/notus?ref=njs-github-readme), [Inputs](https://www.creative-tim.com/learning-lab/tailwind/js/inputs/notus?ref=njs-github-readme) and many more.
 
 Please [check all of them here](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=njs-github-readme).
 
 ### JavaScript Components
 
 We also feature the following 18 dynamic components:
+
 - [Alerts](https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=njs-github-readme)
 - [Popper for Menus](https://www.creative-tim.com/learning-lab/tailwind/js/dropdowns/notus?ref=njs-github-readme)
 - [Menus](https://www.creative-tim.com/learning-lab/tailwind/js/menus/notus?ref=njs-github-readme)
@@ -84,30 +83,29 @@ We also feature the following 18 dynamic components:
 - [Tabs](https://www.creative-tim.com/learning-lab/tailwind/js/tabs/notus?ref=njs-github-readme)
 - [Popper for tooltips content](https://www.creative-tim.com/learning-lab/tailwind/js/tooltips/notus?ref=njs-github-readme)
 
-
 ## Table of Contents
 
-* [Versions](#versions)
-* [Documentation](#documentation)
-* [Quick Start](#quick-start)
-* [Files and folders](#files-and-folders)
-* [Browser Support](#browser-support)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-* [Resources](#resources)
+- [Versions](#versions)
+- [Documentation](#documentation)
+- [Quick Start](#quick-start)
+- [Files and folders](#files-and-folders)
+- [Browser Support](#browser-support)
+- [Reporting Issues](#reporting-issues)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
+- [Resources](#resources)
 
 ## Versions
 
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-angular?ref=njs-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/js.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-js?ref=njs-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/nextjs.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-nextjs?ref=njs-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-react?ref=njs-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/svelte.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/notus-svelte?ref=njs-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-notus?ref=njs-github-readme)
 
-
-| Angular | JavaScript / HTML | NextJS | React | Svelte | VueJS |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=njs-github-readme)  | [![Notus JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=njs-github-readme)  | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=njs-github-readme)  | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=njs-github-readme)  | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=njs-github-readme)  | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=njs-github-readme)
+|                                                                                                 Angular                                                                                                 |                                                                                      JavaScript / HTML                                                                                       |                                                                                               NextJS                                                                                                |                                                                                              React                                                                                              |                                                                                               Svelte                                                                                                |                                                                                          VueJS                                                                                          |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Notus Angular](https://github.com/creativetimofficial/public-assets/blob/master/notus-angular/notus-angular.jpg?raw=true)](https://www.creative-tim.com/product/notus-angular?ref=njs-github-readme) | [![Notus Tailwind JS](https://github.com/creativetimofficial/public-assets/blob/master/notus-js/notus-js.jpg?raw=true)](https://www.creative-tim.com/product/notus-js?ref=njs-github-readme) | [![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)](https://www.creative-tim.com/product/notus-nextjs?ref=njs-github-readme) | [![Notus React](https://github.com/creativetimofficial/public-assets/blob/master/notus-react/notus-react.jpg?raw=true)](https://www.creative-tim.com/product/notus-react?ref=njs-github-readme) | [![Notus Svelte](https://github.com/creativetimofficial/public-assets/blob/master/notus-svelte/notus-svelte.jpg?raw=true)](https://www.creative-tim.com/product/notus-svelte?ref=njs-github-readme) | [![Vue Notus](https://github.com/creativetimofficial/public-assets/blob/master/vue-notus/vue-notus.jpg?raw=true)](https://www.creative-tim.com/product/vue-notus?ref=njs-github-readme) |
 
 ## Documentation
-The documentation for the Notus JS is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus?ref=njs-readme" target="_blank">website</a>.
+
+The documentation for the Notus Tailwind JS is hosted at our <a href="https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus?ref=njs-readme" target="_blank">website</a>.
 
 ## Quick start
 
@@ -117,6 +115,7 @@ The documentation for the Notus JS is hosted at our <a href="https://www.creativ
 ## Files and Folder
 
 This is the project structure that you will get upon the download:
+
 ```
 notus-js
 .
@@ -155,15 +154,15 @@ notus-js
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-| Chrome | Firefox | Edge | Safari | Opera |
-|:---:|:---:|:---:|:---:|:---:|
+|                                                               Chrome                                                               |                                                               Firefox                                                                |                                                               Edge                                                                |                                                               Safari                                                                |                                                               Opera                                                                |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Notus JS. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Notus Tailwind JS. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Notus JS. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=njs-readme" target="_blank">website</a>.
+1. Make sure that you are using the latest version of the Notus Tailwind JS. Check the CHANGELOG from your dashboard on our <a href="https://www.creative-tim.com/?ref=njs-readme" target="_blank">website</a>.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -198,8 +197,8 @@ Dribbble: <a href="https://dribbble.com/creativetim" target="_blank">https://dri
 
 Instagram: <a href="https://www.instagram.com/creativetimofficial/" target="_blank">https://www.instagram.com/creativetimofficial/</a>
 
-
 ## Resources
+
 - Demo: <a href="https://demos.creative-tim.com/notus-js/?ref=njs-readme" target="_blank">https://demos.creative-tim.com/notus-js/?ref=njs-readme</a>
 - Download Page: <a href="https://www.creative-tim.com/product/notus-js?ref=njs-github-readme" target="_blank">https://www.creative-tim.com/product/notus-js</a>
 - Documentation: <a href="https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus?ref=njs-readme" target="_blank">https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus?ref=njs-readme</a>
