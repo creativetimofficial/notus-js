@@ -2,16 +2,17 @@ const plugin = require("tailwindcss/plugin");
 const colors = require("tailwindcss/colors");
 
 module.exports = {
-  purge: {
-    enabled: true,
+  
     content: ["./**/*.html", "./*.html"],
-    options: {
-      safelist: [],
-    },
-  },
   theme: {
     colors: {
       ...colors,
+      lightBlue : colors.sky,
+      warmGray : colors.stone,
+      trueGray : colors.neutral,
+      coolGray : colors.gray,
+      blueGray : colors.slate
+      
     },
     extend: {
       minHeight: {
